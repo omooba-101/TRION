@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/22767150/README.md)
- 👋 Hi there Mechanical Engineering Student | Simulation & CAD | Solar & Hybrid System Design | Front-End Web Developer
+👋 Hi there Mechanical Engineering Student | Simulation & CAD | Solar & Hybrid System Design | Front-End Web Developer
 
 Welcome to my GitHub! I’m a passionate Mechanical Engineering student with strong technical skills in simulation, design, and prototyping, as well as front-end web development. I enjoy creating innovative engineering solutions, working on renewable energy system designs, and combining software tools with real-world applications.
 
